@@ -21,8 +21,8 @@ indications sur comment le faire techniquement
 
 ###acceptance criteria
 ' ' ' gherkin
-Give [i have incremented the counter to 2]
-When [i reset the service]
-Then [the counter should return 0]
+Give [i have ...]
+When [i do ]
+Then [the output is ]
 ' ' '
 
